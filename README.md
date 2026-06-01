@@ -11,6 +11,16 @@ Stop switching between Followers and Following lists. Open any Instagram profile
 
 ---
 
+## 🔗 Install from Chrome Web Store
+
+<p align="left">
+  <a href="https://chromewebstore.google.com/detail/ig-follow-status/ekbfefppjpejddfgogjjajlnphcgnhac" target="_blank">
+    <img src="https://developer.chrome.com/static/docs/webstore/branding/image/iNEddTyWiMfLSwFD6qGq.png" alt="Add to Chrome" height="80">
+  </a>
+</p>
+
+---
+
 ## Features
 
 ### Relationship Indicators
